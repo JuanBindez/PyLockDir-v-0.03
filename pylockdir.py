@@ -45,49 +45,49 @@ try:
 
 
     def chmod_b(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 400 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_c(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 444 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_d(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 600 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_e(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 644 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_f(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 666 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_g(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 700 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_h(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 750 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
 
     def chmod_i(caminho):
-        os.system("sudo chmod 000 -v {}".format(caminho))
+        os.system("sudo chmod 755 -v {}".format(caminho))
         time.sleep(3)
         menu()
 
