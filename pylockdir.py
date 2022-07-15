@@ -25,7 +25,6 @@ SOFTWARE.
 
 '''
 Author: www.github.com/JuanBindez
-License: https://github.com/JuanBindez/PyLockDir/blob/main/LICENSE
 Description: change file and directory permissions
 Python Version: 3.10
 year: 2022
