@@ -45,7 +45,7 @@ class color():
 
         
 def header_menu():
-    print(Color.MAGENTA +
+    print(Color.VERMELHO +
         '''
                              ____        _               _    ____  _      
                             |  _   _   _| |    ___   ___| | _|  _  (_)_ __ 
