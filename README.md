@@ -12,7 +12,7 @@
 
 `git clone https://github.com/JuanBindez/PyLockDir`
 
-## Dentro Do Diretório Onde Esta o Script awk.py Digite o Comando:
+## Dentro Do Diretório Onde Esta o Script pylockdir.py Digite o Comando:
 
 `python3 pylockdir.py`
 
