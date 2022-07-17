@@ -33,8 +33,19 @@ OS: Linux
 '''
 
 
+class color():
+        VERDE = '\033[92m'
+        VERMELHO = '\033[91m'
+        AMARELO = '\033[93m'
+        AZUL = '\033[1;34m'
+        MAGENTA = '\033[1;35m'
+        VERDE_CLARO = '\033[1;92m'
+        NEGRITO = '\033[;1m'
+        RESET = '\033[0m'
+
+        
 def header_menu():
-    print(
+    print(Color.MAGENTA +
         '''
                              ____        _               _    ____  _      
                             |  _   _   _| |    ___   ___| | _|  _  (_)_ __ 
@@ -46,11 +57,11 @@ def header_menu():
                                [ Ctrl + C ]  Para Encerrar o Programa
 
         '''
-    )
+    + Color.RESET)
 
 
 def header_choices():
-    print(
+    print(Color.BRANCO +
 
         '''
 
@@ -64,4 +75,4 @@ def header_choices():
         
         
         '''
-    )
+    + Color.RESET)
