@@ -17,9 +17,22 @@
 `python3 pylockdir.py`
 
 
+![Captura de tela de 2022-07-17 18-19-08](https://user-images.githubusercontent.com/79322362/179425751-3c7ff337-9988-432a-a18b-bddf05d0757a.png)
 
-![Captura de tela de 2022-07-14 14-56-00](https://user-images.githubusercontent.com/79322362/179050887-0a07e4e4-acd7-436c-ae12-6c33f500e403.png)
+![Captura de tela de 2022-07-17 18-20-03](https://user-images.githubusercontent.com/79322362/179425754-63c89599-c89b-425f-b459-3fb610459ca0.png)
+
+![Captura de tela de 2022-07-17 18-22-18](https://user-images.githubusercontent.com/79322362/179425758-940ebadc-1010-4882-a340-c3797f51d898.png)
+
+![Captura de tela de 2022-07-17 18-22-35](https://user-images.githubusercontent.com/79322362/179425761-9ae76d4c-846c-4853-8ff0-5e9bd98bdd50.png)
+
+![Captura de tela de 2022-07-17 18-25-40](https://user-images.githubusercontent.com/79322362/179425764-1187b4d2-c586-4f46-b184-9e7d4cb996fe.png)
+
+![Captura de tela de 2022-07-17 18-25-47](https://user-images.githubusercontent.com/79322362/179425768-e887db52-4d65-4e50-91af-8659b1b5be4c.png)
+
+![Captura de tela de 2022-07-17 18-25-58](https://user-images.githubusercontent.com/79322362/179425772-ad5923d8-f829-4e55-8337-c2ff721ec505.png)
+
+![Captura de tela de 2022-07-17 18-26-29](https://user-images.githubusercontent.com/79322362/179425775-1b7d6c62-1b23-4ad6-9bd2-841ae477b42c.png)
 
 
-![Captura de tela de 2022-07-14 14-57-29](https://user-images.githubusercontent.com/79322362/179050986-fa476013-15e1-40db-b2ab-46eac804d786.png)
+
 
