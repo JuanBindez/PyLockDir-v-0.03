@@ -89,6 +89,26 @@ try:
         os.system("sudo chmod 777 -v {}".format(caminho))
         time.sleep(3)
         menu()
+        
+    def chmod_k():
+        pen_name = str(input("insira o caminho do Pendrive"))
+        print(
+            '''
+            Qual Permissão Você Quer Dar Ao Dispositivo?
+            
+            [1] todas as pemissões
+            [2] nenhuma permissão
+            '''
+        )
+        
+        escolha = int(input("> "))
+        
+        case 1:
+            os.system("sudo chmod 777 -v {}".format(pen_name))
+            
+        case 2:
+            os.system("sudo chmod 000 -v {}".format(pen_name))
+            
 
 
     def menu():
@@ -127,6 +147,9 @@ try:
 
             case 10:
                 chmod_j(name_file)
+                
+            case 11:
+                chmod_k()
 
             case _:
                 print("                             Digite Apenas os Números Listados!")
