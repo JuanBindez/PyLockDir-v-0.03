@@ -91,7 +91,8 @@ try:
         menu()
         
     def chmod_k():
-        pen_name = str(input("insira o caminho do Pendrive"))
+        os.system("sudo fdisk -l")
+        pen_name = str(input("insira o caminho do Pendrive Exemplo /dev/sdb"))
         print(
             '''
             Qual Permissão Você Quer Dar Ao Dispositivo?
