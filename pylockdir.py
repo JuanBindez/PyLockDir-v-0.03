@@ -104,10 +104,10 @@ try:
         
         escolha = int(input("> "))
         
-        case 1:
+        if escolha == 1:
             os.system("sudo chmod 777 -v {}".format(pen_name))
             
-        case 2:
+        elif escolha ==  2:
             os.system("sudo chmod 000 -v {}".format(pen_name))
             
 
