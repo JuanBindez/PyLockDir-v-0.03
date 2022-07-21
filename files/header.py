@@ -69,6 +69,8 @@ def header_choices():
                             [3]  r--r--r--  444        [8]  rwxr-x---  750
                             [4]  rw-------  600        [9]  rwxr-xr-x  755
                             [5]  rw-r--r--  644        [10] rwxrwxrwx  777
+                            
+                                            [11] Pendrive
         
         
         '''
