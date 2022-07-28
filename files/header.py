@@ -39,7 +39,7 @@ def header_menu():
                             | |_) | | | | |   / _ \ / __| |/ / | | | | '__|
                             |  __/| |_| | |__| (_) | (__|   <| |_| | | |   
                             |_|     __, |_____ ___/  ___|_| _ ____/|_|_|    v 0.3
-                                   |___/                              
+                                   |___/ Copyright (c) 2022 Juan Carlos Bindez                     
         
                                [ Ctrl + C ]  Para Encerrar o Programa
 
