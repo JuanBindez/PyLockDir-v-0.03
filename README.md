@@ -1,4 +1,4 @@
-# PyLockDir v 0.3
+# PyLockDir v 0.03
 
 "This project is licensed under the MIT License."
 
